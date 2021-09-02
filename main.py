@@ -6,8 +6,8 @@ import requests
 import json
 
 
-#WechatId ="osnijv3u51YTY4DvX1rX90Z-gy8M"
-#PublicOpenID="oGwGAv2zCrR2Vay-QgYagl6FPhIk"
+#WechatId ="osnijv3u51YTY4DvX1rX9xxxxx"
+#PublicOpenID="oGwGAv2zCrR2Vay-QgYagxxxxx"
 
 def login():
     cfg = ConfigParser()
