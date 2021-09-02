@@ -24,7 +24,8 @@ id 在请求体中
     WechatId = osnijv40H3JmkBgixjo20Bxxxxx
     PublicOpenID = oGwGAvwu3_e9L9HGvDslxxxxxxx  
 
-## 运行
+
+##  运行
 
      #拉取依赖
      pip3 install -r requirements.txt
@@ -33,7 +34,7 @@ id 在请求体中
 
 ---
 
-##说明
+## 说明
 - 签到
 - 查看硬币余额
 没什么卵用如果你能坚持手动签到也可以 一天两个硬币蛮客观的
