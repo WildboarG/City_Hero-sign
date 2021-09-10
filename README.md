@@ -7,7 +7,6 @@
 ##### base.cfg  
 [HttpCanary]：<https://huaigou.lanzouw.com/ieL9wtilq8h> "分享链接"
 
-配置文件在这里
 需要手动抓包抓取这三个参数
 
 奉上我们的小可爱[HttpCanary]
