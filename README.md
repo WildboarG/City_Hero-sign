@@ -8,19 +8,19 @@
 
 需要手动抓包抓取这三个参数
 
-奉上我们的小可爱[HttpCanary](https://huaigou.lanzouw.com/ieL9wtilq8h)
+> 奉上我们的小可爱[HttpCanary](https://huaigou.lanzouw.com/ieL9wtilq8h)
 
-微信关注郑州二七区城市英雄无限城
+> 微信关注郑州二七区城市英雄无限城
 
-会员购币 （先注册成为会员）
+> 会员购币 （先注册成为会员）
 
-打开我们的小可爱 选定微信 开始抓包
+> 打开我们的小可爱 选定微信 开始抓包
 
-点击会员购币
+> 点击会员购币
 
-等待跳转登录上就可以停掉抓包
+> 等待跳转登录上就可以停掉抓包
 
-找到这个包（http://pay.zk2016.com/api/web/getwealth.do）
+> 找到这个包（http://pay.zk2016.com/api/web/getwealth.do）
 
 id 在请求体中
 
