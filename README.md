@@ -9,7 +9,7 @@
 
 需要手动抓包抓取这三个参数
 
-奉上我们的小可爱[HttpCanary]
+奉上我们的小可爱[HttpCanary](https://huaigou.lanzouw.com/ieL9wtilq8h)
 微信关注郑州二七区城市英雄无限城
 会员购币 （先注册成为会员）
 打开我们的小可爱 选定微信 开始抓包
