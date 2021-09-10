@@ -4,7 +4,7 @@
 ##  配置  
 ***
 
-#####base.cfg  
+##### base.cfg  
 配置文件在这里
 需要手动抓包抓取这三个参数
 奉上我们的小可爱![HttpCanary](https://huaigou.lanzouw.com/ieL9wtilq8h
