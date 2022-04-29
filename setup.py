@@ -15,4 +15,5 @@ setuptools.setup(
     packages=["City_Hero-sign"],
     install_requires=["requests","rich"],
     keywords=["sign", "City_Hero"],
-    python_requires=">=3.6",
+    python_requires=">=3.6"
+    )
