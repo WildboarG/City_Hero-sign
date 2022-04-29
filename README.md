@@ -1,8 +1,19 @@
+<!--
+ * @Author: WildboarG
+ * @version: 1.0
+ * @Date: 2022-04-29 18:02:07
+ * @LastEditors: WildboarG
+ * @LastEditTime: 2022-04-29 19:17:05
+ * @Descripttion: 
+-->
 # 郑州二七无限城签到
 ---
+![python](https://img.shields.io/badge/cityhero-0.0.1-green)  ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/fuckzk)  [![pypi_downloads_per_month](https://img.shields.io/pypi/dm/fuckzk)](https://pypi.org/project/fuckzk)  ![](https://img.shields.io/badge/License-MIT-reightgreen.svg)  ![](https://img.shields.io/badge/QQ%20Group-570418215-red)
 
 ##  配置  
 ##### 
+
+
 
 需要手动抓包抓取这三个参数
 
@@ -28,13 +39,19 @@ id 在请求体中
     WechatId = osnijv40H3JmkBgixjo20Bxxxxx
     PublicOpenID = oGwGAvwu3_e9L9HGvDslxxxxxxx  
 
+## 安装
+    
+     # 安装
+     pip3 install cityhero
 
 ##  实现
 
-     #拉取依赖
-     pip3 install -r requirements.txt
-     #运行
-     python3 main.py
+* 创建一个main.py 文件
+
+```python3
+     from cityhero import Hero
+     Hero(WechatId,PublicOpenID)
+```
 
 ---
 
