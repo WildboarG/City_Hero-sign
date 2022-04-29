@@ -3,7 +3,7 @@
 import setuptools
 
 setuptools.setup(
-    name='City_Hero-sign',
+    name='cityhero',
     version='0.0.1',
     author='WildboarG',
     author_email='mm62633482@gmail.com',
@@ -12,7 +12,7 @@ setuptools.setup(
     description='Based on the script of the Erqi City Hero Infinite City sign in and collect coins',
     long_description_content_type="text/markdown",
     long_description = "test Module",
-    packages=["City_Hero-sign"],
+    packages=["cityhero"],
     install_requires=["requests","rich"],
     keywords=["sign", "City_Hero"],
     python_requires=">=3.6"
