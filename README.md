@@ -2,9 +2,7 @@
 ---
 
 ##  配置  
-***
-
-##### base.cfg  
+##### 
 
 需要手动抓包抓取这三个参数
 
@@ -26,13 +24,12 @@ id 在请求体中
 
 
 
-    [ID]  这三个ID是必须填写
-    placeID = c4bf4cdd-a5f3-4e0d-926f-7f67e20xxxxx
+    [ID]  这两个ID是必须填写
     WechatId = osnijv40H3JmkBgixjo20Bxxxxx
     PublicOpenID = oGwGAvwu3_e9L9HGvDslxxxxxxx  
 
 
-##  运行
+##  实现
 
      #拉取依赖
      pip3 install -r requirements.txt
