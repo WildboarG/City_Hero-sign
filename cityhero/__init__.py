@@ -1,6 +1,5 @@
 import requests
 import json
-from  test import *
 from rich import print
 ## 创建一个类  
 class Hero:
@@ -42,7 +41,7 @@ class Hero:
                 "Referer":"http://pay.zk2016.com/web/signin.do?PlaceID=c4bf4cdd-a5f3-4e0d-926f-7f67e2042cc7",
                 "Accept-Encoding":"gzip, deflate",
                 "Accept-Language":"zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7",
-                "cookie":"serveropenid_215ab968-3797-e911-85df-d7af90092ad6=osnijv3u51YTY4DvX1rX90Z-gy8M; branchopenid_wxc89501e85bc2b259_215ab968-3797-e911-85df-d7af90092ad6=oGwGAv2zCrR2Vay-QgYagl6FPhIk; BranchID=215ab968-3797-e911-85df-d7af90092ad6; PublicPlaceID215ab968-3797-e911-85df-d7af90092ad6=c4bf4cdd-a5f3-4e0d-926f-7f67e2042cc7; placeName215ab968-3797-e911-85df-d7af90092ad6=%u90D1%u5DDE%u57CE%u5E02%u82F1%u96C4%u65E0%u9650%u57CE%u5E97; JSESSIONID=A1883AC7808D964F1932F9FF850D3978"
+                #"cookie":"serveropenid_215ab968-3797-e911-85df-d7af90092ad6=osnijv3u51YTY4DvX1rX90Z-gy8M; branchopenid_wxc89501e85bc2b259_215ab968-3797-e911-85df-d7af90092ad6=oGwGAv2zCrR2Vay-QgYagl6FPhIk; BranchID=215ab968-3797-e911-85df-d7af90092ad6; PublicPlaceID215ab968-3797-e911-85df-d7af90092ad6=c4bf4cdd-a5f3-4e0d-926f-7f67e2042cc7; placeName215ab968-3797-e911-85df-d7af90092ad6=%u90D1%u5DDE%u57CE%u5E02%u82F1%u96C4%u65E0%u9650%u57CE%u5E97; JSESSIONID=A1883AC7808D964F1932F9FF850D3978"
             }
             a = self.s.get(url="http://pay.zk2016.com/web/signin.do?PlaceID=c4bf4cdd-a5f3-4e0d-926f-7f67e2042cc7",
                 headers=headers1)
