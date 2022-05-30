@@ -4,7 +4,7 @@ import setuptools
 
 setuptools.setup(
     name='cityhero',
-    version='0.0.5',
+    version='0.0.6',
     author='WildboarG',
     author_email='mm62633482@gmail.com',
     url='https://github.com/WildboarG/City_Hero-sign',

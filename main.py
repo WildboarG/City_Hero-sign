@@ -1,6 +1,6 @@
-from cityhero import Hero
+from cityhero import *
 
-Wechatid = "---------------------"
-PubilcOpenID = "---------------------"
-
-Hero = (Wechatid,PubilcOpenID)
+if __name__ == '__main__':
+    WechatId="XXXXXXXXXXXXXXXXX"
+    PublicOpenID="xxxxxxxxxxxxxx"
+    Hero(WechatId, PublicOpenID)
